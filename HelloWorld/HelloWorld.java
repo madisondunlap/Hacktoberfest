@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-
+//no
 class HelloWorld{
     private static ArrayList<String> Census;
     
